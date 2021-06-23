@@ -120,6 +120,7 @@
 	background-image: url("background/Kingfisherknives - 014 - img_5177 - Copy.jpg");
 	background-size: cover;
 	color: rgb(255, 255, 255);
+	border-top:solid;
 }
 
 .footer h2 {
