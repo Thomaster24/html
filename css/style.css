@@ -117,6 +117,9 @@
 
 section {
 	border-radius:2rem;
+	border-top:solid;
+	border-bottom:solid;
+	
 	
 
 
